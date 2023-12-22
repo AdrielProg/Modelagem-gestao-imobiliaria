@@ -1,5 +1,7 @@
-# Modelagem gestao imobiliario "ImmoLink"
+# Modelagem gestao imobiliaria "ImmoLink"
  Repositório que representa modelagem de dados de uma empresa de  gestão imobiliária abrangente, focado em empreendimentos, edifícios, funcionários e moradores. A regra de negócio fictícia aborda alocação de espaços, monitoramento financeiro e comunicação eficiente, buscando otimizar a administração predial para uma experiência integrada e eficaz.
+
+![ImmoLink](ImmoLink.png)
 
 A regra de negocio foi gerada através do chatgpt tendo como base uma consolidada regra de negócio já existente no mercado. 
 [regra gerada](https://di0-j4v4.notion.site/ImmoLink-bd0ccfa081254f588f2e684509b1e190?pvs=4)
